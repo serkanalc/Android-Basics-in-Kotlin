@@ -4,6 +4,8 @@
 - [Programı Değiştirin](#2)
 - [Programı Genişletin](#3)
 
+- [Çözüm Kodu](https://github.com/serkanalc/Android-Basics-in-Kotlin/blob/main/Dok%C3%BCman%201%20-%20Kotlin%20Basics/Build%20a%20Basic%20Layout/%C3%87%C3%B6z%C3%BCm%20Kodu/Hello%20World.kt)
+
 ## <a name="1"></a>Kotlin'deki İlk Programınızı Çalıştırın
 
 Bu aşamada, hemen Kotlin dilinde programlamaya başlamak için bir web sitesinde bir düzenleyici kullanacaksınız.
