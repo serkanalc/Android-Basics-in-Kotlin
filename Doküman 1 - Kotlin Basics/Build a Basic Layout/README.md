@@ -1,6 +1,6 @@
 # Kotlin Basics
 
--[Ön Bilgi & Gereksinimler](https://github.com/serkanalc/Android-Basics-in-Kotlin/blob/main/Dok%C3%BCman%201%20-%20Kotlin%20Basics/Build%20a%20Basic%20Layout/Gereksinimler.md)
+- [Ön Bilgi & Gereksinimler](https://github.com/serkanalc/Android-Basics-in-Kotlin/blob/main/Dok%C3%BCman%201%20-%20Kotlin%20Basics/Build%20a%20Basic%20Layout/Gereksinimler.md)
 <br>
 - [Kotlin'deki İlk Programınızı Çalıştırın](#1)
 - [Programı Değiştirin](#2)
